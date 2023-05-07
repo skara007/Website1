@@ -9,7 +9,7 @@ import {
 const Navbar = () => (
   <Section>
     <NavbarTwoColumns>
-      <a href="Website1/">
+      <a href="./">
         <Logo
           icon={
             <svg
@@ -33,9 +33,9 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="/posts">Blogs</NavMenuItem>
-        <NavMenuItem href="/">GitHub</NavMenuItem>
-        <NavMenuItem href="/">Twitter</NavMenuItem>
+        <NavMenuItem href="./posts">Blogs</NavMenuItem>
+        <NavMenuItem href="./">GitHub</NavMenuItem>
+        <NavMenuItem href="./">Twitter</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
