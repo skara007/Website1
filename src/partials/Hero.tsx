@@ -29,7 +29,7 @@ const Hero = () => (
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src="/Website1/assets/images/avatar.svg"
           alt="Avatar image"
           loading="lazy"
         />
@@ -38,25 +38,25 @@ const Hero = () => (
         <>
           <a href="/Website1/">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
+              src="/Website1/assets/images/twitter-icon.png"
               alt="Twitter icon"
             />
           </a>
           <a href="/Website1/">
             <HeroSocial
-              src="/assets/images/facebook-icon.png"
+              src="/Website1/assets/images/facebook-icon.png"
               alt="Facebook icon"
             />
           </a>
           <a href="/Website1/">
             <HeroSocial
-              src="/assets/images/linkedin-icon.png"
+              src="/Website1/assets/images/linkedin-icon.png"
               alt="Linkedin icon"
             />
           </a>
           <a href="/Website1/">
             <HeroSocial
-              src="/assets/images/youtube-icon.png"
+              src="/Website1/assets/images/youtube-icon.png"
               alt="Youtube icon"
             />
           </a>
