@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: 1st Lorem ipsum dolor sit
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
 pubDate: 2020-02-01T00:00:00Z
-imgsrc: '/assets/images/image-post7.jpeg'
+imgsrc: '/Website1/assets/images/image-post7.jpeg'
 imgAlt: 'Image post 7'
 ---
 
