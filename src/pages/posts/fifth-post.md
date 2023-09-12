@@ -6,5 +6,5 @@ pubDate: 2020-02-05T00:00:00Z
 imgsrc: '/Website1/assets/images/image-post2.jpeg'
 imgAlt: 'Image post 2'
 ---
-
+// Änderung Bild
 Full typography example at [this page](./sixth-post).
